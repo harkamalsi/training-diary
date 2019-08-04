@@ -1,2 +1,2 @@
 # training-diary
-A react webapp connected with mongoDB.
+A react-native-app connected with mongoDB.
