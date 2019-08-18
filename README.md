@@ -1,4 +1,6 @@
 # training-diary
+Status: Not finished
+
 A react-native-app connected with mongoDB.
 
 
