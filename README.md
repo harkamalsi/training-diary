@@ -2,7 +2,7 @@
 This is the backend repository for the workout diary project.
 
 ## Project description
-This will first be a prototype for a workout diary web application with main focus on mobile design. Main purpose with this project is to learn HCI/HMI (Human Computer Interaction), React with TypeScript, Express, NodeJS, MongoDB, Jenkins and Heroku. In addition this app will also help me to easier document my workout progress. The app will let a user add and edit a workout on a specific day with the default being "today". Users must register and login to use the app. In addition users can also take notes, make their own custom workout programs and see the workout statistics e.g. their bodyweight or the weight they can lift. 
+This will first be a prototype for a workout diary web application with main focus on mobile design. Main purpose with this project is to learn HCI/HMI (Human Computer Interaction), ReactJS, Express, NodeJS, MongoDB, Jenkins and Heroku. In addition this app will also help me to easier document my workout progress. The app will let a user add and edit a workout on a specific day with the default being "today". Users must register and login to use the app. In addition users can also take notes, make their own custom workout programs and see the workout statistics e.g. their bodyweight or the weight they can lift. 
 
 ## Stakeholders
 * Users 
@@ -18,7 +18,7 @@ This will first be a prototype for a workout diary web application with main foc
 * Can see workout statistics 
 
 ## Technology used
-* React + TypeScipt
+* ReactJS
 * Express
 * NodeJS
 * MongoDB
