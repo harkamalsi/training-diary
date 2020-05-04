@@ -19,9 +19,11 @@ This will first be a prototype for a workout diary web application with main foc
 
 ## Technology used
 * ReactJS
+* Redux
+* Material-UI
 * Express
 * NodeJS
-* MongoDB
+* Firebase
 * REST
 * Jenkins 
 * Heroku
